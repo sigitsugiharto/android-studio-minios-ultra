@@ -12,6 +12,7 @@ cd android-studio/bin
 ./studio.sh
 # FLUTTER
 sudo apt install -y curl git unzip xz-utils zip libglu1-mesa
+sudo apt install clang cmake ninja-build pkg-config libgtk-3-dev
 
 cd ~/
 
