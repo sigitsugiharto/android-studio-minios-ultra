@@ -24,6 +24,8 @@ echo 'export PATH=$HOME/flutter/bin:$PATH' >> ~/.bashrc
 
 source .bashrc
 
+flutter doctor --android-licenses
+
 flutter doctor
 
 
