@@ -10,4 +10,5 @@ tar -xzvf android-studio-panda3-linux.tar.gz
 cd android-studio/bin
 # run
 ./studio.sh
-
+# FLUTTER
+sudo apt install -y curl git unzip xz-utils zip libglu1-mesa
