@@ -12,6 +12,8 @@ cd android-studio/bin
 ./studio.sh
 # FLUTTER
 sudo apt install -y curl git unzip xz-utils zip libglu1-mesa
+
 cd ~/
+
 wget https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.41.6-stable.tar.xz
 
