@@ -17,3 +17,12 @@ cd ~/
 
 wget https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.41.6-stable.tar.xz
 
+tar -xf flutter_linux_3.41.6-stable.tar.xz
+
+echo 'export PATH=$HOME/flutter/bin:$PATH' >> ~/.bashrc
+
+source .bashrc
+
+flutter doctor
+
+
